@@ -1,0 +1,4 @@
+if a > b then
+echo "b is small"
+else
+echo"a is small"
